@@ -1,0 +1,9 @@
+[project]
+name = "dbt-core-northwind"
+version = "0.1.0"
+description = "Project to learn how use dbt tools"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dbt-postgres>=1.10.0",
+]
